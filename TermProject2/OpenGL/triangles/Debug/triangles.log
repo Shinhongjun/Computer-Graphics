@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\user\repos\OpenGL\triangles\Primi.h(221,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\repos\OpenGL\triangles\Primi.h(232,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\repos\OpenGL\triangles\main.cpp(216,28): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\repos\OpenGL\triangles\main.cpp(288,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  triangles.vcxproj -> C:\Users\user\repos\OpenGL\triangles\Debug\triangles.exe
